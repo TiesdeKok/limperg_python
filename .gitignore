@@ -1,0 +1,26 @@
+## Remove ipynb checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+## Do not sync answers
+answers/
+
+## Do not sync demonstrations
+demonstrations/
+
+## Avoid syncing "dontsync" folders
+dontsync
+*/dontsync/*
+
+## Do not sync PowerPoint files
+*.ppt
+*.pptx
+
+## Other
+debug.log
+
+## Hide future sessions for now
+
+
+
+
