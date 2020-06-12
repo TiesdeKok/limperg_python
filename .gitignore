@@ -2,11 +2,21 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+## Hide untitled files
+[Uu]ntitled*
+
+## Hide log files
+*.log
+
 ## Do not sync answers
-answers/
+solved-*
+
+## Do not sync pipeline folders
+
+**/pipeline/**
 
 ## Do not sync demonstrations
-demonstrations/
+demonstration/
 
 ## Avoid syncing "dontsync" folders
 dontsync

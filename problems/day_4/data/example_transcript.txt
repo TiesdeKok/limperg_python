@@ -1,0 +1,259 @@
+﻿Company Name: Hope Bancorp Inc
+Company Ticker: HOPE US Equity
+Date: 2020-01-23
+Q4 2019 Earnings Call
+Company Participants
+Alex Ko, Executive Vice President and Chief Financial Officer
+Angie Yang, Director, Investor Relations
+Kevin S. Kim, President and Chief Executive Officer
+Other Participants
+Bob Sean, Analyst
+Christopher McGratty, Analyst
+Jake Stern, Analyst
+Tim Coffey, Analyst
+Unidentified Participant
+Presentation
+Operator
+Hello and welcome to the Hope Bancorp Q4 2019 Earnings Conference Call. All participants will be in listen-only mode. (Operator Instructions) Please note this event is being recorded.
+
+I would now like to turn the conference over to Angie Yang, Director of Investor Relations. Please go ahead.
+
+Angie Yang 
+Thank you, Keith. Good morning everyone and thank you for joining us for the Hope Bancorp 2019 Fourth Quarter Investor Conference Call. As usual we will begin -- we will be using a slide presentation to accompany our discussion this morning. If you have not done so already, please visit the Presentations page of our Investor Relations website to download a copy of the presentation. Or if you are listening into the webcast, you should be able to view the slides from your computer screen as we progress through the presentation.
+
+Beginning on Slide 2. I'd like to begin with a brief statement regarding forward-looking remarks. The call today may contain forward-looking projections regarding the future financial performance of the Company and future events. These statements are based on current expectations, estimates, forecasts, projections and management assumptions about the future performance of the Company as well as the businesses and markets in which the Company does and is expected to operate. These statements constitute forward-looking statements within the meaning of the US Private Securities Litigation Reform Act of 1995. These statements are not guarantees of future performance. Actual outcomes and results may differ materially from what is expressed or forecasted in such forward-looking statements.
+
+We refer you to the documents the Company files periodically with the SEC as well as the Safe Harbor statements in our press release issued yesterday. Hope Bancorp assumes no obligation to revise any forward-looking projections that may be made on today's call. The Company cautions that the complete financial results to be included in the quarterly report on Form 10-K for the year ended December 31, 2019 could differ materially from the financial results being reported today.
+
+In addition, some of the information referenced on this call today are non-GAAP financial measures. Please refer to our 2019 fourth quarter earnings release for the reconciliation of GAAP to non-GAAP financial measures.
+
+Now, we have allotted one hour for this call. Presenting from the management side today will be Kevin Kim, Hope Bancorp's Chairman, President and CEO and Alex Ko, our Executive Vice President and Chief Financial Officer. Chief Credit Officer, Peter Koh is also here with us today and will participate in the Q&A session.
+
+With that, let me turn the call over to Kevin Kim. Kevin?
+
+Kevin S. Kim 
+Thank you, Angie. Good morning everyone and thank you for joining us today. Let's begin with Slide 3. Our fourth quarter results capped a successful year of consistent execution on our strategic priorities for enhancing the value of the Bank of Hope franchise. We continue to deliver a high level of profitability generating $43 million in net income or $0.34 per diluted share in the fourth quarter of 2019. This reflects a slight improvement over the $42.6 million or $0.34 in the preceding third quarter. Taking a step back and looking at the full year, you may recall on our fourth quarter earnings call last January, we discussed a number of key priorities for the year.
+
+I'm very pleased to report that we have made excellent progress on these initiatives. First and most notably, over the course of 2019, we dramatically improved our core deposits, particularly at the branch level where we are having a great deal of success in attracting retail depositors to our lower cost deposit accounts.
+
+During 2019, we increased our money market and now deposit balances by 31%, our savings deposits by 21% and our non-interest bearing deposits by 2%. This strong growth in core deposits enabled us to significantly reduce our dependence on higher costing time deposits.
+
+As a result, at the end of 2019, time deposits have declined to 41.2% of our total deposits, down from 48.3% at the end of the prior year. The success we had in executing on our core deposit gathering initiatives proved critical in helping us to better manage our deposit costs, which plateaued during the third quarter of 2019 and then declined significantly during the fourth quarter.
+
+Second, another key priority was tightly managing our non-interest expense levels. Through a consistent focus on enhancing efficiencies throughout our organization, we were able to reduce our non-interest expense as a percentage of average assets to 1.86% for the year, down from 1.88% in 2018. We were able to achieve this improvement despite the ongoing investments and continued spending on projects, including the implementation of CECL. And third, which is always a priority for Hope Bancorp was effective capital management. Through our stock repurchase program and attractive dividend, we returned $84.7 million of capital to shareholders in 2019, while maintaining strong capital ratios to support future growth.
+
+Moving on to Slide 4, in addition to the success we have had in gathering lower cost deposits, we were able to be more active in our loan production. As a result, we generated a record level of loan originations in the fourth quarter. We had $848 million in new loan originations funded in the fourth quarter, up from $694 million in the preceding third quarter.
+
+We also saw a record level of payoffs, which totaled $486 million in the fourth quarter, up from $461 million in the prior quarter. Aggregate payoffs and paydowns totaled $668 million in the fourth quarter versus $633 million in the preceding quarter. We continued to see the larger mainstream banks targeting smaller lending opportunities than they have in the past and offering very aggressive pricing to win deals. However, with our record level of loan originations, our total loans increased $171 million or 1.4% from the end of the preceding quarter. This equates to 5.7% on an annualized basis.
+
+Looking at the breakdown of our loan production by major category, we continue to have a well-balanced mix of new loan originations. Commercial real estate loans comprised 61% of total production in the quarter. Commercial loans accounted for 31% and consumer loans, comprised primarily of residential mortgage loans, accounted for 8%.
+
+We originated $513 million in CRE loans for the quarter, up from $349 million in the preceding third quarter. With the lower interest rate, we saw a modest increase in the demand for CRE loans and we capitalized on some attractive opportunities in a number of areas including hospitality, mixed use facilities and warehouses. We had another strong quarter of C&I loan originations. We funded $266 million in new C&I production in the fourth quarter. In addition to the expansion of our corporate banking group targeting lending opportunities with middle market mainstream entities, we have also been focused on building on our relationships with existing seasoned operators of top tier franchises, which has been contributing to our C&I loan production.
+
+Turning to our SBA business. We originated $62 million in SBA loans which reflects an increase from $55 million in the preceding third quarter. And since we are retaining this production, which is booked at higher rates than our overall average loans, we continue to see the positive impact this strategy is having on our average loan yields.
+
+With that as an overview of our business development efforts, I will ask Alex to provide additional details on our financial performance for the fourth quarter. Alex?
+
+Alex Ko 
+Thank you, Kevin. As I review our financial results, I will limit my discussion to just some of the more significant items in the quarter. Beginning with Slide 5. I will start with our net interest income which totaled $113.5 million compared with $116.3 million in the preceding third quarter. This decrease was mainly due to lower interest income on loans due to the impact of the interest rate cuts in September and October.
+
+Our net interest margin declined by 9 basis points to 3.16%. On a core basis, excluding purchase accounting adjustment, our net interest margin declined by 10 basis points. This was relatively in line with our expectations given the impact of both September and October rate cuts on our earnings asset yield.
+
+Our core loan yield, which exclude accretion income, declined 24 basis points from the preceding third quarter. This was driven by the repricing on our variable-rate loans following the September and October rate cuts, the payoffs of higher yielding loans and lower rate on new originations in the lower interest rate environment. This was partially offset by a substantial decline in our cost of deposits due to the mix -- funding mix that Kevin discussed. Our cost of deposits declined 13 basis point from the prior quarter to 1.49% and I would note that this is the first quarter-over-quarter decrease in deposit costs in three years. The last time deposit cost declined was in the fourth quarter of 2016 when the total cost of deposits decreased by 1 basis point. As we guided last quarter, our total cost of deposits has continued its downward trend since the peak in July 2019.
+
+On a month-by-month basis, our cost of the deposits was 1.54% in October, 1.49% in November and 1.44% in December 2019. With a full quarter impact of October rate cuts and assuming no further changes in the Fed funds rate, we expect to see a decline in our net interest margin, excluding accretion income of approximately 2 to 3 basis points in the first quarter of 2020.
+
+Now moving on to Slide 6. Our non-interest income was $13 million, essentially unchanged from the preceding third quarter. The primary variance from the preceding quarter was a $1.1 million increase in the net gain on sale of other loans. During the quarter, total sales of mortgage loans amounted to $32.5 million compared with $30.9 million in the preceding quarter.
+
+In addition, we completed note sale of an aggregate $26 million of CRE loans, which had been transferred to loans held for sale at the end of 2019 third quarter. This increase in gain on sale of other loans was partially offset by a $900,000 decline in swap fee income quarter-over-quarter, which reduced our other income and fees.
+
+Moving on to non-interest expenses on Slide 7. Our non-interest expense was $70.4 million, up modestly from the preceding third quarter. In terms of significant variances, our salaries and employee benefit expenses declined by $1.8 million due to lower levels of retirement benefit expense as well as lower self funded group insurance cost, which fluctuates each quarter based on the volume of insurance claims in a given quarter. These declines were offset by an increase in our FDIC assessment fees for which we reported no expense in the third quarter of 2019. We utilized a remainder of our small bank assessment and credit to offset some, but not all of our assessment fee expenses this quarter. And now, we also had an increase in credit-related expenses and a lower amount of OREO-related income driven by fluctuation in OREO fair value adjustments. For the quarter, our non-interest expense to average asset ratio was 1.85% unchanged from last quarter, which reflects our continued success in expense management.
+
+Now moving on to Slide 8, I will discuss some of our key deposit trends. Our total deposits increased by approximately 2.4% from the end of the prior quarter with all of the growth coming in our lower cost categories. Our non-interest bearing deposits increased to 2.5% in the quarter, while money market and NOW deposits and savings account balances increased by 6.2% and 5.7% respectively.
+
+As a result of the improvement in our deposit mix, long time deposits increased to 58.8% of our total deposits compared with 57.6% at the end of the prior quarter. We also continue to see positive trends in the repricing gap on time deposit renewals or the delta between a CD's expiring rate and the renewal rate. During the fourth quarter, renewed CDs were issued at our weighted average rate that was 59 basis point lower than the weighted average rate on those CDs that matured. As a result, the average cost of our time deposits declined 4 basis points from the preceding quarter.
+
+Now moving on to Slide 9. I will review our asset quality. Overall, our asset quality remains healthy and we continued to see positive trends. Our total criticized loans declined by another $7.7 million and now at our lowest levels since our MOE in 2016. However, our non-performing loans increased by $20.7 million from the end of the prior quarter. Approximately half of the increase was attributable to a $10 million construction loan that matured before the completion of the project. We chose not to extend the maturity date of the loan and stop funding new advances, which dictated that we placed the loan nonaccrual status. The project is above 85% complete and the current appraisal data shows lose that we are very well secured and no impairment exists. This is another example of our effort to proactively identify and manage potentially-problematic credits.
+
+We are currently in a workout with a borrower with the expectation that the loan will be refinanced by another lender. The remainder of the increase in non-performing loans this quarter primarily relate to temporary delays in the renewal process, which also impacted the analysis of our 90-day plus delinquent loans on an accrual status.
+
+We have worked through these delays for the most part already and we expect to see these loans migrate back to performing status by the end of the month. Our loss experience continues to be very low. We had just $738,000 of net charge-offs in the quarter or 2 basis points of average loans on an annualized basis.
+
+For the full year, our net charge-offs amounted to adjust 4 basis points of average loans. Given the low level of net charge-offs and the lack of impairment in the new inflow into non-performing loans this quarter, we had a modest loan loss provision requirement of $1 million.
+
+With that, let me turn the call back to Kevin.
+
+Kevin S. Kim 
+Thanks Alex. Let's move on to Slide 10. I will conclude with a few comments about our priorities and expectations for 2020. Similar to last year, we will be highly focused on deposit gathering and controlling expenses and we expect to see a continuation of the positive trends we have had in both areas. We anticipate that the environment for loan growth will continue to be challenging, as we expect that transaction activity in CRE market will remain sluggish. However, we expect to be more active in new loan production in 2020. We are also focusing on better defending our existing portfolio from the high level of payoffs we have seen in recent quarters. But importantly, our focus will continue to be on generating profitable growth. We will continue to be very disciplined in the loans we originate to ensure that we meet our targeted levels of profitability.
+
+Over the last year, we have made considerable investments in expanding our lending capacity beyond our traditional core markets. Our corporate banking group is focused on originating C&I loans and gathering corporate deposits from the middle market customer base. The experience of our expanded team of bankers has been diversified beyond financial services and now includes rather industry expertise in other areas.
+
+We believe we have established a highly scalable business model and can continue to originate loans and gather deposits without the need to hire substantially more personnel. We are also optimistic about the growth opportunities in our residential mortgage and warehouse line business. We believe that we can add a number of new clients for our warehouse line business over the course of the year, which should result in higher funding volumes that will generate interest income. And in terms of our retail mortgage business, we are working to better leverage our entire branch network to generate more referrals from our existing customer base.
+
+To date, we have had most of our residential mortgage originations coming from our mortgage loan production offices, which target the mainstream customer base. More recently, we have been focusing on growing our referrals that come through our Southern California branches and we are pleased to see growing origination volumes from these business units. We believe that with some additional focus and training in our other geographic markets, we can increase the referrals generated from our branches in other parts of the country, which will have the positive impact of generating higher levels of non-interest income from the gain on sale of other loans.
+
+Collectively, with the contributions from our corporate banking group and our warehouse line of credit business units, supplementing our traditional business lines, we believe we can generate a higher level of loan growth this year than we did in 2019. For 2020, we are budgeting for organic loan growth to range in the low-to-mid single-digits. And as always, we remain committed to strong capital management that includes strong shareholder returns, while maintaining strong capital ratios that support our continued growth. We have an attractive dividend that currently yields approximately 4% and we plan to remain active with our $50 million share repurchase program currently in place.
+
+To wrap up, we ended 2019 on a strong note and we have a lot of momentum on our key initiatives as we start 2020. We believe we are well positioned to deliver another good year for our shareholders and further enhance the value of our franchise.
+
+With that, let's open up the call to answer any questions you may have. Operator, please open up the call.
+
+Questions And Answers
+Operator
+Yes, thank you. We will now begin the question-and-answer session. (Operator Instructions) And the first question comes from Christopher McGratty with KBW.
+
+Q - Christopher McGratty 
+Great, thanks, good afternoon. Kevin maybe you could start -- or Alex on the margin, obviously the environment has got a little bit tougher for the banks. But you have this -- the ability to bring down deposit costs, which you talked about in your prepared remarks. I appreciate in the guidance for the first quarter, but if the rate outlook remains steady, how do we think about ultimate stability in the flow and the margin, where and kind of when?
+
+A - Alex Ko 
+Sure, sure. As I indicated, we would expect to have continued compression next quarter given the rate cuts that we have experienced especially October rate cut, it will continue next quarter. But as we indicated, our proactive deposit initiative as well as very disciplined pricing on the deposit, even though we have a very competitive -- competition on the loan rate is very still severe. We would expect to stabilize in the second quarter of 2020 in terms of net interest margin and then second half of the year, we would expect to start to increase.
+
+Q - Christopher McGratty 
+Okay, great. And as rates have come down maybe kind of a strategic question, Kevin, with the SBA business, any thoughts on potentially going back to the originate and sell model, maybe comment on where you thought, I think premiums might be today?
+
+A - Kevin S. Kim 
+Okay. Yeah. Because the average rate on SBA loans are considerably higher than the other loans, we have stopped selling the loans more than a year ago. And obviously, keeping this higher rate loans in our portfolio is an important element of our overall profitable growth strategy. So it is our intention to continue the retention policy for the time being, but as always, we have been very diligently monitoring the market situation and the current premiums in the secondary market is becoming better. So we will continue to evaluate, but at this time and for the time being, our intention is to continue to retain them on our books.
+
+Q - Christopher McGratty 
+Okay, great. Thank you.
+
+Operator
+Thank you. And the next question comes from Gary Tenner with DA Davidson.
+
+Q - Jake Stern 
+Hi, good morning. This is actually Jake Stern on for Gary. How is it going today?
+
+A - Kevin S. Kim 
+Good.
+
+A - Angie Yang 
+Fine.
+
+Q - Jake Stern 
+Good. So first question is the 10b5-1 trading program you announced in early December only runs through the end of January. Is it reasonable to expect you would utilize the full authorization by then or 1Q buybacks likely closer to 4Q levels?
+
+A - Kevin S. Kim 
+Well, as we noted in our earnings release, we were fairly active in the fourth quarter in buying back our own shares and we will continue to remain active in the first quarter. Whether we will be able to complete that $50 million program by the end of the first quarter will depend upon the overall market activity.
+
+Q - Jake Stern 
+Okay. And how are you thinking about buyback once the current authorization is fully used?
+
+A - Kevin S. Kim 
+We do not have any additional plan in place at this time. But as in the past, we will continue to monitor our capital situation. And I would not be a surprised, depending upon the market situation and our capital situation, that the Board will consider another program later this year.
+
+Q - Jake Stern 
+Okay. Thanks for answering that.
+
+A - Angie Yang 
+Just to clarify Jake, February is not a blackout period. The 10b-51 program ends in January and our blackout -- which is when our blackout period ends.
+
+Q - Jake Stern 
+Okay. I appreciate you answering the question. Just another one to follow it up. What is the quarterly CD maturity schedule (inaudible) for 2020?
+
+A - Kevin S. Kim 
+Sure. CD, we have, let's say, starting with the first quarter of 2020, total about $1.9 billion at an average rate of 2.17% is expected to mature. And the second quarter 2020, about a $1 billion at a rate of $2.33 billion. And Q3 is about $1.2 billion at a rate of 2.3% and the last quarter or Q4 of 2020, $960 million at a rate of 1.9%. So if I just aggregate all the 2020 maturity, that is about a 2.18% total of $5.2 billion.
+
+Q - Jake Stern 
+I appreciate the color on that. Just one more and then I'll step out here. So it looks like your expense to average assets has been at 1.85% level for three of the last four quarters. Are there opportunities to lower that level further or is that the level you are comfortable operating at?
+
+A - Kevin S. Kim 
+I feel comfortable operating it, but I would expect to have some improvement. And the reason for such improvement is we will continue to grow, but with a profitable growth. So as the average assets continue to grow and our very disciplined expense monitoring especially, there is some professional fees we are monitoring very closely and also no more need such as CECL, we did have a sizable amount of investment in 2019, but we do not expect that to happen or substantially decline in 2020. But there is some offsetting increases such as FDIC assessment fee and some other. So even assuming similar level of the total non-interest expenses, let's say $70 million or $71 million, I would expect to see the non-interest expense over average asset ratio slightly below than 1.85%.
+
+Q - Jake Stern 
+Wonderful. I appreciate you guys answering my questions.
+
+A - Angie Yang 
+Thank you.
+
+A - Kevin S. Kim 
+Thank you.
+
+Operator
+Thank you. (Operator Instructions) And the next question comes from (inaudible) with Cap Security Management.
+
+Q - Unidentified Participant
+Good afternoon everyone. Just a couple of questions. What percentage of your loans for the past quarter were fixed versus variable? And how do you see that trending during the next 12 months? And also, what do you -- are you anticipating from the loan portfolio going forward? Lower or higher from the current level of 5.04%?
+
+A - Kevin S. Kim 
+Sure. Now let me start with the mix of the fixed and variable-rate loan. But as you know, we have mortgage loans so let me break into fixed, hybrid and variable. So hybrid what I mean is, it is hybrid, but if it is at a fixed rate, let's say first five years fixed and then variable, it's called hybrid, but if it is within the fixed, we call it as fixed. So total 6% at fixed rate is a 24% at a rate of about 4.6%. And hybrid is a 37% and the variable is 39%. And that 39% or $4.8 billion of variable rate loan consisted of mainly prime-based and also a LIBOR-based. So out of that entire variable rate loan, about 55% of loans are based on the prime and the remaining is based on the LIBOR and some other indexes, but the other index is very minor. So that's the kind of composition of the fixed and the variable and I think you did ask the second question about the loan pricing or the loan volume?
+
+A - Angie Yang 
+It was yield expectation for loan.
+
+A - Kevin S. Kim 
+Yield, so going forward, who knows how the interest rate rule [ph] be in the next 12 months or so, but the competition on the lending side is still very competitive. So I don't think in the (inaudible) increase on our loan yield, more realistically, we will see a small compression on our loan yields.
+
+Q - Unidentified Participant
+And final question from me. You have -- what is your dividend policy going forward, because you haven't raised the dividend in six quarters. What would your criteria for potential dividend increases going forward?
+
+A - Kevin S. Kim 
+We factor into a lot of considerations when we determine the dividend rate. And as I mentioned in the script, our current dividend yield is around 4% and which is pretty good. The comparative other -- compared with other players in the market and we also look at our overall capital position and dividend is one way of returning returns to our shareholders, but there will be other methods and currently, the $0.14 per quarter is the good level of dividend payout we believe. So unless there is a dramatic change in the market situation or our capital position, I think that will continue for the time being.
+
+A - Alex Ko 
+So the dividend payout ratio is (inaudible) which we believe that's very healthy and also just to add, we have active share repurchase program and as Mr. Kim indicated, as needed we will continue to maximize our level of capital through either dividend or share repurchase and so forth.
+
+Q - Unidentified Participant
+Okay, thank you very much, I appreciate it.
+
+A - Kevin S. Kim 
+Thank you.
+
+Operator
+And the next question comes from Tim Coffey with Janney.
+
+Q - Tim Coffey 
+Thank you. Good morning everybody. Looking at the decline in gas station and car wash loans, down about $135 million, $136 million last year, what are some of the dynamics that are bringing those balances down?
+
+A - Kevin S. Kim 
+We are looking at different marketplaces and depending on the industry and things we are trying to tighten up in certain areas we do see some risk. We have not made it any proactive efforts strategically to bring down some of those balances. But we are also just looking at the industry, we are also looking at the competition in terms of how aggressive they are getting. And I think you're seeing some of the competitiveness show up in terms of our balances there. But we don't see in terms of the overall market, we have concerns as we stated before in terms of where we are in the overall cycle. But in terms of the general markets and the industries, we don't see any big concerns in those balances. I think it's more of a reflection of the competition.
+
+Q - Tim Coffey 
+And if I may, the competition is I guess driving that market right now. Are those local banks or more national banks?
+
+A - Kevin S. Kim 
+We're in a position where we see the competition from various places. So, we are seeing some of the large banks competing for our space, but we also have the smaller banks. So we do see a variety of all size banks.
+
+Q - Tim Coffey 
+Okay, great. Thank you, the rest of my questions have been answered.
+
+A - Angie Yang 
+Thank you.
+
+A - Kevin S. Kim 
+Thank you.
+
+A - Alex Ko 
+Thank you.
+
+Operator
+Thank you. (Operator Instructions) And the next question comes from Matthew Clark with Piper Sandler.
+
+Q - Bob Sean 
+Good morning. This is actually Bob Sean on for Matthew. How are you guys doing?
+
+A - Angie Yang 
+Fine.
+
+Q - Bob Sean 
+I just was wondering if you guys had a CECL update for us and any implementation guidance you can give?
+
+A - Kevin S. Kim
+Sure. We did kind of disclose in the past and we are in a good shape in terms of the progress because we are doing the second parallel run testing and there is not much changes from the previous -- our expectation. That's about the allowance for loan loss might increase on Day one due to the CECL implementation about 30% to 40% increase. It is subject to change and the capital impact from the CECL is kind of relatively minor. So I don't think there is any major changes from previous conversation and I do not expect major changes going forward as well.
+
+Q - Bob Sean
+Okay, thanks. And I'd like to sneak one more in. Regarding the strength of your customers, have you seen positive trends in the cash flow ratios and loan to values of your customers or how has that trended over the past couple of quarters?
+
+A - Alex Ko
+We see in certain areas, a much stronger cash flow (Technical Difficulty) it's been a very good industry so far. And so, I think generally speaking, I think they've been pretty stable. I think we are seeing some industries that are showing improvements as hospitality as I mentioned before. But we have -- we are not seeing any like major changes I guess if that's the question you're asking, I think basically we're seeing positive or stable trends across industries.
+
+Q - Bob Sean
+All right, thanks. I'll step back.
+
+Operator
+Thank you. And that does conclude our question-and-answer session. So I would like to return the floor back over to management for any closing comments.
+
+A - Kevin S. Kim
+Okay, thank you. Once again, everyone thank you for joining us today and we look forward to speaking with you again in three months. So long everyone.
+
+Operator
+Thank you. The conference has now concluded. Thank you for attending today's presentation. You may now disconnect your lines.
