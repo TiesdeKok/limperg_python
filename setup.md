@@ -79,3 +79,11 @@ If Jupyter Lab opens up without issues you are good to go for now! More instruct
 > How to start a Jupyter Notebook or Jupyter Lab server (click to play):  
 > 
 > [![How to start a Jupyter Notebook or Jupyter Lab server](https://img.youtube.com/vi/pHvIGIRhFM8/0.jpg)](https://www.youtube.com/watch?v=pHvIGIRhFM8 "How to start a Jupyter Notebook or Jupyter Lab server")
+
+### **Step 5:** set up Jupyter Lab extensions:
+
+> How to install Jupyter Lab Extensions (click to play):  
+> 
+> [![How to install Jupyter Lab Extensions](https://img.youtube.com/vi/6FMU8ivOKE8/0.jpg)](https://youtu.be/6FMU8ivOKE8 "How to install Jupyter Lab Extensions")
+
+
