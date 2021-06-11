@@ -1,9 +1,9 @@
 # Limperg Python course
-## Edition: *June 2020*
+## Edition: *June 2021*
 ## Lecturer: <a href="https://www.tiesdekok.com" target="_blank">Ties de Kok</a> (University of Washington)
  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 
-See the [`setup.md`](https://github.com/TiesdeKok/limperg_python/blob/master/setup.md) file for instructions on how to set up Python and your Anaconda environment.
+See the [`setup.md`](https://github.com/TiesdeKok/limperg_python/blob/master/setup.pdf) file for instructions on how to set up Python and your Anaconda environment.
 
 ## **Session overview**
 
