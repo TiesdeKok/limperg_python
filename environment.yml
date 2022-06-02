@@ -26,7 +26,7 @@ dependencies:
   - plotly
   - selenium
   - pip:
-    - click==7.1.2
+    - click
     - requests-html
     - joblib
     - tqdm
