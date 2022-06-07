@@ -16,11 +16,13 @@ solved-*
 **/pipeline/**
 
 ## Do not sync demonstrations
-demonstration/
+*/raw_data/*
+*_complete.ipynb
 
 ## Avoid syncing "dontsync" folders
 dontsync
 */dontsync/*
+
 
 ## Do not sync PowerPoint files
 *.ppt
@@ -28,6 +30,7 @@ dontsync
 
 ## Other
 debug.log
+*.pyc
 
 ## Hide future sessions for now
 

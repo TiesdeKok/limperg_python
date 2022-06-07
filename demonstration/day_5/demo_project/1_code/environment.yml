@@ -1,0 +1,47 @@
+  
+name: demo_project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - xlrd
+  - openpyxl
+  - hickle
+  - PyTables
+  - spacy
+  - textblob
+  - nltk
+  - ipywidgets
+  - gensim
+  - requests
+  - seaborn
+  - bokeh
+  - lxml
+  - cssselect
+  - plotnine
+  - selenium
+  - pip:
+    - requests-html
+    - joblib
+    - tqdm
+    - pqdm
+    - scikit-learn 
+    - unidecode
+    - pyperclip
+    - xmltodict
+    - wrds
+    - psycopg2
+    - pysha3
+    - stringcase
+    - orjson
+    - git+https://github.com/huggingface/transformers
+    - openai
+    - bertopic
+    - more-itertools
+    - mgzip

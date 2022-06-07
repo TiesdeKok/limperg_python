@@ -1,0 +1,6 @@
+---
+directories:
+  externalPipeline:
+    Ties: F:\linked_pipeline\csr_reports
+    Hyak: /mmfs1/gscratch/tdekok/linked_pipeline/csr_reports/
+...
